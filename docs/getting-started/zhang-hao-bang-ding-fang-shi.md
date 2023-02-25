@@ -8,7 +8,7 @@ description: Discord 帳號綁訂步驟
 
 ![](<../.gitbook/assets/image (1).png>)
 
-接著，將伺服器 IP輸入到遊戲中，並嘗試進入！\
+接著，將伺服器 IP 輸入到遊戲中，並嘗試進入！\
 會看到以下畫面，請先**不要**回到伺服器列表。
 
 ![](../.gitbook/assets/image.png)
