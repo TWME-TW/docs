@@ -16,10 +16,3 @@ description: 此頁面存放了伺服器的各種資訊
 ```
 mc.builderintw.net
 ```
-
-\
-
-
-<mark style="color:yellow;"></mark>
-
-<mark style="color:yellow;">伺服伺服器mc.builderintw.net</mark>&#x20;
