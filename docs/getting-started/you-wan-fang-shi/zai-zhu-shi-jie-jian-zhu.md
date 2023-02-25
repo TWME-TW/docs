@@ -8,5 +8,9 @@ description: 此文章用於介紹如何在主世界建築
 
 要注意的是，要在領地範圍內才能使用WorldEdit(小木斧)
 
-以下是畫設領地教學： [ji-chu-hua-she-ling-di-jiao-xue.md](../ji-chu-hua-she-ling-di-jiao-xue.md "mention")
+以下是畫設領地教學：&#x20;
+
+{% content-ref url="../ji-chu-hua-she-ling-di-jiao-xue.md" %}
+[ji-chu-hua-she-ling-di-jiao-xue.md](../ji-chu-hua-she-ling-di-jiao-xue.md)
+{% endcontent-ref %}
 
