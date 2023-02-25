@@ -8,8 +8,13 @@ description: 創造建築伺服器的遊玩方式
 
 在主世界建築就是在第一次進入伺服器時，進入的世界建築。
 
-[zai-zhu-shi-jie-jian-zhu.md](zai-zhu-shi-jie-jian-zhu.md "mention")
+{% content-ref url="zai-zhu-shi-jie-jian-zhu.md" %}
+[zai-zhu-shi-jie-jian-zhu.md](zai-zhu-shi-jie-jian-zhu.md)
+{% endcontent-ref %}
 
 而個人世界建築則是可以創建一個主於自己的世界，你選擇公開或者是私人的世界，並在裡面自由的建築。
 
-[zai-ge-ren-shi-jie-jian-zhu.md](zai-ge-ren-shi-jie-jian-zhu.md "mention")
+{% content-ref url="zai-ge-ren-shi-jie-jian-zhu.md" %}
+[zai-ge-ren-shi-jie-jian-zhu.md](zai-ge-ren-shi-jie-jian-zhu.md)
+{% endcontent-ref %}
+
