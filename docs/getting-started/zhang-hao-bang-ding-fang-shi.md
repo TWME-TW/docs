@@ -11,6 +11,8 @@ description: Discord 帳號綁訂步驟
 接著，將伺服器 IP 輸入到遊戲中，並嘗試進入！\
 會看到以下畫面，請先**不要**回到伺服器列表。
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 請 直接切換到 Discord，並將 8680 這串文字發送到 🔐⎮帳號綁定 頻道，即可完成綁定。
+
+![](../.gitbook/assets/image.png)
