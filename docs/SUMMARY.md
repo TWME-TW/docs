@@ -10,7 +10,8 @@
   * [在主世界建築](getting-started/how-to-play/build-together.md)
   * [在個人世界建築](getting-started/how-to-play/personal-world.md)
 * [基礎劃設領地教學](getting-started/basic-claim-teaching.md)
+* [基礎指令](getting-started/basic-commands.md)
 
-## 指令列表 <a href="#command-list" id="command-list"></a>
+## 伺服器指令 <a href="#server-commands" id="server-commands"></a>
 
-* [指令分類](command-list/zhi-ling-fen-lei.md)
+* [指令分類](server-commands/list.md)
