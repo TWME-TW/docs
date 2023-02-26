@@ -8,7 +8,7 @@ description: 如何在伺服器中保護自己的建築不被別人破壞、修�
 
 先從物品欄中拿取**黃金鏟子**，然後在要畫設的矩形範圍的左上角與右上角分別用黃金鏟子用左、右鍵點擊，即可創建領地。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 第二種方式是先用 `//wand` 指令獲取WorldEdit (小木斧) 工具，選取好 WorldEdit 長方體選取區後，打 `/gd worldedit claim` 即可創建領地。&#x20;
 
