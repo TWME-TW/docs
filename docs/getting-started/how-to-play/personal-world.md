@@ -12,7 +12,7 @@ description: 此文章將教您如何創建自己的個人世界。
 進入伺服器後，打 /worlds ( /w ) 即可開啟世界管理選單。\
 會看到以下選項：**公開世界**、封存世界、**私人世界**、設定。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>世界主選單</p></figcaption></figure>
 
 接著你可以依據**是否要讓其他玩家進入參觀、建築**來選擇**公開世界**或**私人世界。**
 
