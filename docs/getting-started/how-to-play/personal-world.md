@@ -29,8 +29,3 @@ description: 此文章將教您如何創建自己的個人世界。
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>輸入世界名稱</p></figcaption></figure>
 
 輸入完後，**您的世界就創建完成**！您就可以自由的在裡面蓋建築！
-
-警告
-
-
-
