@@ -14,4 +14,5 @@
 
 ## 伺服器指令 <a href="#server-commands" id="server-commands"></a>
 
-* [指令分類](server-commands/list.md)
+* [指令分類](server-commands/list/README.md)
+  * [顯示類指令](server-commands/list/xian-shi-lei-zhi-ling.md)
