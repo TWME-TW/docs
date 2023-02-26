@@ -13,4 +13,4 @@
 
 ## 指令列表 <a href="#command-list" id="command-list"></a>
 
-* [Page 1](command-list/page-1.md)
+* [指令分類](command-list/zhi-ling-fen-lei.md)
