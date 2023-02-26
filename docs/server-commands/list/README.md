@@ -6,7 +6,7 @@ description: 此頁大致分類了各種的指令
 
 顯示、視覺相關指令：
 
-{% content-ref url="xian-shi-lei-zhi-ling.md" %}
-[xian-shi-lei-zhi-ling.md](xian-shi-lei-zhi-ling.md)
+{% content-ref url="visual.md" %}
+[visual.md](visual.md)
 {% endcontent-ref %}
 
