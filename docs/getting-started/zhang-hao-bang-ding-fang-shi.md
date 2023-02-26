@@ -6,13 +6,13 @@ description: Discord 帳號綁訂步驟
 
 步驟一： 請先到 Discord 中的 **🚨⎮伺服器規章** 按下底下的 :white\_check\_mark: 來同意本服規定
 
-![](<../.gitbook/assets/image (1).png>)
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 接著，將伺服器 IP 輸入到遊戲中，並嘗試進入！\
 會看到以下畫面，請先**不要**回到伺服器列表。
 
-![](<../.gitbook/assets/image (2).png>)
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 請 直接切換到 Discord，並將 8680 這串文字發送到 🔐⎮帳號綁定 頻道，即可完成綁定。
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
