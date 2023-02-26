@@ -24,3 +24,13 @@ description: 此文章將教您如何創建自己的個人世界。
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 輸入完後，**您的世界就創建完成**！您就可以自由的在裡面蓋建築！
+
+警告
+
+{% hint style="info" %}
+警告，由於技術問題，目前個人世界一樣要創建領地，才能在領地內建築，所以建議找好地方後，就框選一個大領地。\
+領地框選教學請見 [ji-chu-hua-she-ling-di-jiao-xue.md](../ji-chu-hua-she-ling-di-jiao-xue.md "mention")
+{% endhint %}
+
+
+
