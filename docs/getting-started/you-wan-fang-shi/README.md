@@ -6,7 +6,7 @@ description: 創造建築伺服器的遊玩方式
 
 創造建築伺服器大致有兩種遊玩方式，分別為：在 **主世界** 建築，與在 **個人世界** 建築。
 
-在主世界建築就是在第一次進入伺服器時，進入的世界建築。
+在主世界建築就是在第一次進入伺服器時，所進入的世界中建築。
 
 {% content-ref url="zai-zhu-shi-jie-jian-zhu.md" %}
 [zai-zhu-shi-jie-jian-zhu.md](zai-zhu-shi-jie-jian-zhu.md)
