@@ -10,7 +10,7 @@ description: 此文章用於介紹如何在主世界建築
 
 以下是畫設領地教學：&#x20;
 
-{% content-ref url="../ji-chu-hua-she-ling-di-jiao-xue.md" %}
-[ji-chu-hua-she-ling-di-jiao-xue.md](../ji-chu-hua-she-ling-di-jiao-xue.md)
+{% content-ref url="../basic-claim-teaching.md" %}
+[basic-claim-teaching.md](../basic-claim-teaching.md)
 {% endcontent-ref %}
 
