@@ -4,6 +4,11 @@ description: 此文章將教您如何創建自己的個人世界。
 
 # 在個人世界建築
 
+{% hint style="info" %}
+警告，由於技術問題，目前個人世界一樣要創建領地，才能在領地內建築，所以建議找好地方後，就框選一個大領地。\
+請在看完底下的教學後再來看這篇教學： [basic-claim-teaching.md](../basic-claim-teaching.md "mention")
+{% endhint %}
+
 進入伺服器後，打 /worlds ( /w ) 即可開啟世界管理選單。\
 會看到以下選項：**公開世界**、封存世界、**私人世界**、設定。
 
@@ -26,11 +31,6 @@ description: 此文章將教您如何創建自己的個人世界。
 輸入完後，**您的世界就創建完成**！您就可以自由的在裡面蓋建築！
 
 警告
-
-{% hint style="info" %}
-警告，由於技術問題，目前個人世界一樣要創建領地，才能在領地內建築，所以建議找好地方後，就框選一個大領地。\
-領地框選教學請見 [basic-claim-teaching.md](../basic-claim-teaching.md "mention")
-{% endhint %}
 
 
 
