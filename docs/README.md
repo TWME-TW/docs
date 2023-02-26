@@ -12,4 +12,8 @@ description: 創造建築伺服器的各種功能教學文件
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-\
+如果要查看指令請到：
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
