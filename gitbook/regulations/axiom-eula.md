@@ -1,17 +1,25 @@
 ---
-description: 使用 Axiom 需要遵守其使用規範，在此提供 Axiom 中文翻譯版 (但請以英文版為主)
+description: 使用 Axiom 需要遵守其使用規範。
 ---
 
 # Axiom 規則
 
+## Axiom 於創造建築伺服器 附加規則
+
 {% hint style="info" %}
-Axiom 最終用戶許可協議 [英文版](https://axiom.moulberry.com/eula)
+使用 Axiom 時除了遵守其規範外，額外需要在此伺服器上遵守的規則
 {% endhint %}
 
-## Axiom 最終用戶許可協議 中文翻譯
+1. 不得用於商業用途。
+
+### Axiom 最終用戶許可協議 中文翻譯
 
 {% hint style="danger" %}
 請以英文版為主
+{% endhint %}
+
+{% hint style="info" %}
+Axiom 最終用戶許可協議 [英文版](https://axiom.moulberry.com/eula)
 {% endhint %}
 
 最終用戶許可協議 自2023年9月22日起生效
