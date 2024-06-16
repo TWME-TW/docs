@@ -35,4 +35,5 @@
   * [官方公開世界規則](regulations/minecraft/official-public-world/README.md)
     * [運輸廳與鐵道規則](regulations/minecraft/official-public-world/department-of-transport-and-railway-regulations.md)
   * [Page](regulations/minecraft/page.md)
+* [Axiom 規則](regulations/axiom-eula.md)
 * [伺服器架構](regulations/server-structure.md)
